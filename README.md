@@ -37,22 +37,22 @@
 <h3>Projects</h3>
 <ul>
   <li>
-    <strong>Digi-Support</strong> – full-stack platform for digital assistance  
+    <strong>Digi-Support</strong> - full-stack platform for digital assistance  
     (Next.js, MongoDB, authentication, admin tooling, deployment)
   </li>
 
   <li>
-    <strong>ArchForm</strong> – architectural reference system  
+    <strong>ArchForm</strong> - architectural reference system  
     focused on organizing visual elements, materials and components for design workflows
   </li>
 
   <li>
-    <strong>Waterview</strong> – conceptual tool for analysing and structuring water-related spatial data  
+    <strong>Waterview</strong> - conceptual tool for analysing and structuring water-related spatial data  
     (mapping, data organisation, digital workflows in an architectural context)
   </li>
 
   <li>
-    UI experiments – lightweight components & minimal interface prototypes
+    UI experiments - lightweight components & minimal interface prototypes
   </li>
 </ul>
 
